@@ -16,7 +16,7 @@
  - app: application directory. all application related source code need to place here
  
 ### available api endpoints
- - /example/display/:name  - a example api 
+ - /example/display/:name  - an example api 
  
  ### This project dockerised. To run the project in container you have to follow below steps
  - cmd to /project. As I set WORKDIR to /project. If you want to change then please change
